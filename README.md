@@ -13,4 +13,4 @@ Please following license agreement listed in http://apache.tika.org
 2. Apache Tika library v1.9
 
 ###Usage Example
-java -jar TikaExtractor.jar directory/binary_file directory/output
+java -jar TikaExtractor.jar full_path_directory/source_binary_filename full_path_output_directory
