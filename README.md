@@ -14,4 +14,5 @@ Please following license agreement listed in http://apache.tika.org
 
 ###Usage Example
 java -jar TikaExtractor.jar full_path_directory/source_binary_filename full_path_output_directory
+
 ex. java -jar TikaExtractor.jar in/test1.pdf out
